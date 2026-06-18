@@ -1,0 +1,98 @@
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\bin\Debug\net10.0\appsettings.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\bin\Debug\net10.0\Actividad 17.staticwebassets.runtime.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\bin\Debug\net10.0\Actividad 17.staticwebassets.endpoints.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\bin\Debug\net10.0\Actividad 17.exe
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\bin\Debug\net10.0\Actividad 17.deps.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\bin\Debug\net10.0\Actividad 17.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\bin\Debug\net10.0\Actividad 17.dll
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\bin\Debug\net10.0\Actividad 17.pdb
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\Actividad 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\Actividad 17.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\Actividad 17.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\Actividad 17.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\Actividad 17.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\Actividad 17.RazorAssemblyInfo.cache
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\Actividad 17.RazorAssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\Actividad 17.sourcelink.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\scopedcss\bundle\Actividad 17.styles.css
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\scopedcss\projectbundle\Actividad 17.bundle.scp.css
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\ty9htovene-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\5xgpv285tg-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\yp65mrlr9t-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\549bmu7v5q-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\9dlt4igacy-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\i6hrrakctp-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\a6f80s5jp0-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\ejvjkrjfhm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\ve5qpumf5b-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\bkn0i517c3-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\jy5c3dg3c5-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\om1wrtktav-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\dapf4h0pq3-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\lttw5csgyb-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\5x4ksibhy4-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\t73ge000gk-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\qs342gqaqp-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\4gwlrhfm99-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\hh6p7gs244-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\jejq3m073y-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\c11rpahroy-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\s8usyau20a-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\o7vh2p2262-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\40ijty8db6-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\pon82fweqm-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\8h44f0n1hs-{0}-06098lyss8-06098lyss8.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\vpdp0387ti-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\c0823g1gxn-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\coag0c6joe-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\ii1oknydaw-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\q0rn7ezjnl-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\gtip0pavqg-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\5aow41r48w-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\xaotk7us0s-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\jy2wfxmec3-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\r3zg2l3kou-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\ko4dt6q0bm-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\f10va2xd8m-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\1n6rc4fm5o-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\ial3dtxodb-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\zkf06da5eo-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\ms2aug1uw8-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\qgbmuwhn9b-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\m6ugu7k5e6-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\9au2g23vrk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\gayh5dji85-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\3c2oax94t2-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\z135102x3c-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\53u2zgywkd-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\m67gbdmxgk-{0}-356vix0kms-356vix0kms.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\c0ja7968nr-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\oqfbmnxtmn-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\c0nktszgjy-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\45s2z4yjan-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\kbg5w89djt-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\vhe3515d85-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\qcxuo7e3hy-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\fbb18x4lmf-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\db4onddt56-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\8xz0qjyecx-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\y7p7x7i56y-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\cxp1zlt1wg-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\gwl22rcr2i-{0}-3xbxqz7elc-3xbxqz7elc.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\compressed\sz0yv45tvd-{0}-3xbxqz7elc-3xbxqz7elc.gz
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\Actividad 17.dll
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\refint\Actividad 17.dll
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\Actividad 17.pdb
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\Actividad 17.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Escritorio\Actividad 17\obj\Debug\net10.0\ref\Actividad 17.dll
